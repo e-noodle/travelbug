@@ -54,9 +54,8 @@ AAdvantage Customer Service
 
 American Airlines
 
-|                                                                                                        | 
-|--------------------------------------------------------------------------------------------------------| 
 | Class of service,Purchased fares booked in,Base miles,Class of service bonus miles,EQMs per mile flown | 
+|--------------------------------------------------------------------------------------------------------| 
 | First,"A, F",100%,50%,1.50                                                                             | 
 | Business,"C, D, J, X",100%,25%,1.50                                                                    | 
 | Discount Business,I,55%,25%,1.50                                                                       | 
