@@ -16,28 +16,25 @@ This is equivalent to a Gold membership status with Qantas
 
 1.  Sign up for a free membership account with [AA](https://www.aa.com/loyalty/enrollment/enroll):
 2.  Plan a trip using  [itasoftware.com](https://matrix.itasoftware.com) with one of the carriers:
-*   [American Airlines](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/american.jsp)
-*   [British Airways](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/british.jsp)
-*   [Finnair](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/finnair.jsp)
-*   [Iberia](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/iberia.jsp)
-*   [Japan Airlines](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/japan.jsp)
-*   [Qantas Airways](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/qantas.jsp)
+    *   [American Airlines](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/american.jsp)
+    *   [British Airways](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/british.jsp)
+    *   [Finnair](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/finnair.jsp)
+    *   [Iberia](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/iberia.jsp)
+    *   [Japan Airlines](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/japan.jsp)
+    *   [Qantas Airways](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/qantas.jsp)
 3.  Ensure The total number of miles exceeds the amount required for the challenge:
     * **_AAdvantage_****_®_****_ Gold status_**: 7,000 Elite Qualifying Miles (EQMs) on an eligible carrier  
     * **_AAdvantage_****_®_****_ Platinum status_**: 12,500 Elite Qualifying Miles (EQMs)-on an eligible carrier
 4.  Check the linkes to the carrires below to calculate the number of EQM miles obtained as these vary   
     *  e.g. flights booked on AA flights would have a better rate than say JAL.
 5.  Ensure the Booking Class is correct and the rate for this class with the carrier.  
-6.  Try to book a premium economy ticket for non AA flights (not sale or flex etc) or book directly with AA to maximise the number of EQMs for the flight.
+    *  Try to book a premium economy ticket for non AA flights (not sale or flex etc) or book directly with AA to maximise the number of EQMs for the flight.
 
-##### Calculating Distance
-[Google](http://www.google.com)
+##### Calculating Distance and Booking Classes for flights
+[Google](http://www.google.com) To calculate distances for flights  
+[Itasoftware](https://matrix.itasoftware.com) (Powered by Google) propvides booking classes, cost estimates and the advanced routing option can be populated withj the carrier short name to filter by approved carriers (e.g. JAL,QF,BA,AA)
 
-##### Checking Booking Classes for flights
-[Itasoftware](https://matrix.itasoftware.com)
-
-
-##### Eligible Carriers:
+##### Eligible Carriers and detail on Rates for EQMs:
 
 *   [American Airlines](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/american.jsp)
 *   [British Airways](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/british.jsp)
@@ -68,8 +65,3 @@ To determine which fare you will be purchasing, simply ask your booking agent (
 *   Plan your qualifying flights to meet your goal within the 3-month time frame selected
 *   Fly on an eligible carrier, including eligible codeshare flights marketed by an eligible carrier
 *   Upgrading? Keep in mind that EQMs earned are based on the class-of-service purchased
-
-
-
-
-
