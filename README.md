@@ -22,8 +22,7 @@ This is equivalent to a Gold membership status with Qantas
 3.  Ensure The total number of miles exceeds the amount required for the challenge:
     * **_AAdvantage_****_®_****_ Gold status_**: 7,000 Elite Qualifying Miles (EQMs) on an eligible carrier  
     * **_AAdvantage_****_®_****_ Platinum status_**: 12,500 Elite Qualifying Miles (EQMs)-on an eligible carrier
-4.  Check the linkes to the carrires below to calculate the number of EQM miles obtained as these vary   
-    *  e.g. flights booked on AA flights would have a better rate than say JAL.
+4.  Check the information on EQM rates below to calculate the number of EQM miles for the journey as these vary depending on which carrier you choose e.g. flights booked directly with AA flights attract a better rate / mile travelled.
 5.  Ensure the Booking Class is correct and the rate for this class with the carrier.  
     *  Try to book a premium economy ticket for non AA flights (not sale or flex etc) or book directly with AA to maximise the number of EQMs for the flight.
 
@@ -31,6 +30,7 @@ This is equivalent to a Gold membership status with Qantas
 ##### Calculating Distance and Booking Classes for flights
 
 [Google](http://www.google.com) To calculate distances for flights  
+
 [Itasoftware](https://matrix.itasoftware.com) (Powered by Google) propvides booking classes, cost estimates and the advanced routing option can be populated withj the carrier short name to filter by approved carriers (e.g. JAL,QF,BA,AA)
 
 
