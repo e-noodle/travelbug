@@ -1,6 +1,3 @@
-# About
-Frequent flyer miles, status, points, fare comparisons, Qantas One World and American Airlines
-
 # Sapphire Frequent Flyer Status in 1 Trip
 
 This is equivalent to a Gold membership status with Qantas
@@ -68,3 +65,7 @@ To determine which fare you will be purchasing, simply ask your booking agent (
 *   Plan your qualifying flights to meet your goal within the 3-month time frame selected
 *   Fly on an eligible carrier, including eligible codeshare flights marketed by an eligible carrier
 *   Upgrading? Keep in mind that EQMs earned are based on the class-of-service purchased
+
+##### Keywords
+
+Frequent flyer miles, status, points, fare comparisons, Qantas One World and American Airlines
