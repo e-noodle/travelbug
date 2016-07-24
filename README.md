@@ -1,6 +1,46 @@
-# Sapphire Frequent Flyer Status in 1 Trip
+#### The AA Challenge: Basics
 
-This is equivalent to a Gold membership status with Qantas
+The AAdvantage Elite Status Challenge is American Airlines' way of granting a one-time "short cut" to elite status for those flyers who will likely generate significant revenue. The Challenge is an unpublished benefit; there is nothing written publicly about it, so the Challenge could be withdrawn or changed at any time. If you have a question about a Challenge after doing your research here, please ask it in Challenge Help Desk Thread on FlyerTalk. For historical posts, you can also review the trailing thread.
+
+#### Choosing a Challenge
+
+An AA Challenge is based on flying sufficiently to earn 5,000 (AAdvantage Gold) or 10,000 (AAdvantage Platinum) Elite Qualifying Points (EQP) in a three month period. Challenges may begin on the 1st or 16th of the month. Elite Qualifying Points are figured on the basis of miles earned and fare class. See the tables at aa.com for the official rates.
+
+#### Important notes:
+
+Elite Qualifying Miles (EQM) are not the same as Elite Qualifying Points (EQP), and it is Points that count for a Challenge; miles earned are not relevant. See Miles and Points for more information on the differences.  
+
+See the tables at aa.com for the number of points that you will earn for the various fare booking classes. (Also see Inventory Classes and Mileage Eligibility.) See below for information on how to book specific fare classes via AA.com.  
+You'll earn points in accordance with the booking class that you purchased. This holds true even if you are upgraded into another booking class.  
+
+UPDATE: As of February 2014, US flights as well as flights marketed and operated by certain partners will also be eligible to earn points that count toward the completion of a Challenge: British Airways, Iberia, Japan Airlines and Qantas. (Cathay Pacific is notably missing.) The specific language from the challenge confirmation says "And now you have more opportunities to complete your Challenge because points earned on qualifying flights on American Airlines, American Eagle, the AmericanConnection® carrier, British Airways, Iberia, Japan Airlines, Qantas and their eligible codeshare flights count toward your Challenge."  
+
+In general, status is not conferred during the Challenge itself, however it has been reported recently that Platinum Challenge participants having elite status on another airline or who have nonrefundable tickets for qualifying travel already booked, may be granted temporary GLD status immediately upon requesting the Challenge.  
+
+Once attaining Gold through a Challenge, you are not allowed to sign-up for a subsequent Platinum Challenge.
+ 
+- You are not allowed to use a Challenge to maintain status - you must lose it and then Challenge to regain it.  
+- You are not allowed to use a Challenge to re-attain status earned through a Challenge within the same year.  
+-  You are not allowed to use a Challenge if there is an exception on your account during the same year. For example, if you use the Buy-Back program to maintain status, even at a different tier, you are not eligible, so, if you use Buy-Back to maintain Gold status, you will not be eligible for a Platinum Challenge that year.  
+- There is no Challenge for Executive Platinum.  
+- To acquire Executive Platinum status you must fly 100 segments or earn 100,000 EQM / EQP in the calendar year; Challenge completion does not affect (reduce) this requirement.  
+ - You can only set your enrollment date for the 1st or 16th of the month  
+ - The challenge can start in the past to include previously flown miles, but you can only backdate your enrollment date to the most recent allowed enrollment date. For example, if you last flew on the 14th of the month, and call AA on the 18th, the earliest you can backdate the challenge is the 16th of the month, and therefore won't be able to include those miles in your challenge. However, if you flew on the 14th and you called AA by the 15th, you could backdate your enrollment date to the 1st of the month and be able to include those miles.  
+ - Status earned through a Challenge is treated the same as elite status earned through other means.
+
+There have been some reports of people doing this in the past, but it has become increasingly difficult and attempting either will likely just waste your time trying. It also goes against the spirit of the Challenge Program. UPDATE: As of October 2011, AA allows you to sign up for the Platinum challenge immediately after completing the Gold challenge in the same calender year. Also, if you sign up for the Gold challenge, and during that challenge you fly enough miles to meet the Platinum challenge, you can call AA and upgrade your challenge to the Platinum challenge (for an extra fee; the fee is usually a little bit more than it would have been if you signed up for the Platinum challenge in the first place) and get Platinum status.
+
+#### Signing up for a Challenge
+
+To enroll in a challenge, call AAdvantage customer service at +1 800-882-8880.
+
+AA instituted fees to sign up for Gold and Platinum Challenges as of Oct 15, 2008\. A Gold Challenge in progress can be upgraded to a Platinum Challenge for an additional fee, as of Dec 30, 2008\. Conversely, a Platinum Challenge in progress can be downgraded if the flyer can only earn 5,000 points, but the fee difference is not refunded. (Recent reports on FlyerTalk suggest that AA is no longer doing explicit downgrades but Gold status may/will be conferred at the conclusion of a Platinum Challenge if the flyer only earns 5,000 points.)
+
+Challenges begun before June 16 of a given year earn status for the remainder of that year and the first two months of the following year (8-14 months total); challenges begun on or after June 16 grant status for the remainder of that year, the following year, and the first two months of the year after (14-20 months total). Challenges can be started on the 1st and 16th of the month and you can request a specific start date (within the next few months). Be very explicit about requesting a start date unless you want the one offered to you. Challenge start dates may even be backdated to include a recent flight. (But only 2 weeks in the past)
+
+The historical fee structure for enrolling in a Challenge has been as follows (be sure to contact AA for current information):
+
+As of June 22, 2016, fees are $240 for Platinum Challenge.  
 
 #### Requirements
 
@@ -67,64 +107,8 @@ To determine which fare you will be purchasing, simply ask your booking agent (
 *   Upgrading? Keep in mind that EQMs earned are based on the class-of-service purchased
 
  
-1 AAdvantage Elite Status Challenge  
-1.1 The AA Challenge: Basics  
-1.1.1 Choosing a Challenge  
-1.1.2 Signing up for a Challenge  
-1.1.3 Booking Flights for a Challenge  
-1.1.4 Completing a Challenge  
-1.2 Other Information  
-1.2.1 Repeating a Challenge  
-1.2.2 Failed Challenges  
-1.2.3 Other Resources  
-1.2.4 Sample Letter for Gold  
-1.2.5 Sample Letter for Platinum (March 2011)  
-1.3 Other Ways to Earn Status  
-AAdvantage Elite Status Challenge
 
-#### The AA Challenge: Basics
 
-The AAdvantage Elite Status Challenge is American Airlines' way of granting a one-time "short cut" to elite status for those flyers who will likely generate significant revenue. The Challenge is an unpublished benefit; there is nothing written publicly about it, so the Challenge could be withdrawn or changed at any time. If you have a question about a Challenge after doing your research here, please ask it in Challenge Help Desk Thread on FlyerTalk. For historical posts, you can also review the trailing thread.
-
-#### Choosing a Challenge
-
-An AA Challenge is based on flying sufficiently to earn 5,000 (AAdvantage Gold) or 10,000 (AAdvantage Platinum) Elite Qualifying Points (EQP) in a three month period. Challenges may begin on the 1st or 16th of the month. Elite Qualifying Points are figured on the basis of miles earned and fare class. See the tables at aa.com for the official rates.
-
-#### Important notes:
-
-Elite Qualifying Miles (EQM) are not the same as Elite Qualifying Points (EQP), and it is Points that count for a Challenge; miles earned are not relevant. See Miles and Points for more information on the differences.  
-
-See the tables at aa.com for the number of points that you will earn for the various fare booking classes. (Also see Inventory Classes and Mileage Eligibility.) See below for information on how to book specific fare classes via AA.com.  
-You'll earn points in accordance with the booking class that you purchased. This holds true even if you are upgraded into another booking class.  
-
-UPDATE: As of February 2014, US flights as well as flights marketed and operated by certain partners will also be eligible to earn points that count toward the completion of a Challenge: British Airways, Iberia, Japan Airlines and Qantas. (Cathay Pacific is notably missing.) The specific language from the challenge confirmation says "And now you have more opportunities to complete your Challenge because points earned on qualifying flights on American Airlines, American Eagle, the AmericanConnection® carrier, British Airways, Iberia, Japan Airlines, Qantas and their eligible codeshare flights count toward your Challenge."  
-
-In general, status is not conferred during the Challenge itself, however it has been reported recently that Platinum Challenge participants having elite status on another airline or who have nonrefundable tickets for qualifying travel already booked, may be granted temporary GLD status immediately upon requesting the Challenge.  
-
-Once attaining Gold through a Challenge, you are not allowed to sign-up for a subsequent Platinum Challenge.
- 
-- You are not allowed to use a Challenge to maintain status - you must lose it and then Challenge to regain it.  
-- You are not allowed to use a Challenge to re-attain status earned through a Challenge within the same year.  
--  You are not allowed to use a Challenge if there is an exception on your account during the same year. For example, if you use the Buy-Back program to maintain status, even at a different tier, you are not eligible, so, if you use Buy-Back to maintain Gold status, you will not be eligible for a Platinum Challenge that year.  
-- There is no Challenge for Executive Platinum.  
-- To acquire Executive Platinum status you must fly 100 segments or earn 100,000 EQM / EQP in the calendar year; Challenge completion does not affect (reduce) this requirement.  
- - You can only set your enrollment date for the 1st or 16th of the month  
- - The challenge can start in the past to include previously flown miles, but you can only backdate your enrollment date to the most recent allowed enrollment date. For example, if you last flew on the 14th of the month, and call AA on the 18th, the earliest you can backdate the challenge is the 16th of the month, and therefore won't be able to include those miles in your challenge. However, if you flew on the 14th and you called AA by the 15th, you could backdate your enrollment date to the 1st of the month and be able to include those miles.  
- - Status earned through a Challenge is treated the same as elite status earned through other means.
-
-There have been some reports of people doing this in the past, but it has become increasingly difficult and attempting either will likely just waste your time trying. It also goes against the spirit of the Challenge Program. UPDATE: As of October 2011, AA allows you to sign up for the Platinum challenge immediately after completing the Gold challenge in the same calender year. Also, if you sign up for the Gold challenge, and during that challenge you fly enough miles to meet the Platinum challenge, you can call AA and upgrade your challenge to the Platinum challenge (for an extra fee; the fee is usually a little bit more than it would have been if you signed up for the Platinum challenge in the first place) and get Platinum status.
-
-#### Signing up for a Challenge
-
-To enroll in a challenge, call AAdvantage customer service at +1 800-882-8880.
-
-AA instituted fees to sign up for Gold and Platinum Challenges as of Oct 15, 2008\. A Gold Challenge in progress can be upgraded to a Platinum Challenge for an additional fee, as of Dec 30, 2008\. Conversely, a Platinum Challenge in progress can be downgraded if the flyer can only earn 5,000 points, but the fee difference is not refunded. (Recent reports on FlyerTalk suggest that AA is no longer doing explicit downgrades but Gold status may/will be conferred at the conclusion of a Platinum Challenge if the flyer only earns 5,000 points.)
-
-Challenges begun before June 16 of a given year earn status for the remainder of that year and the first two months of the following year (8-14 months total); challenges begun on or after June 16 grant status for the remainder of that year, the following year, and the first two months of the year after (14-20 months total). Challenges can be started on the 1st and 16th of the month and you can request a specific start date (within the next few months). Be very explicit about requesting a start date unless you want the one offered to you. Challenge start dates may even be backdated to include a recent flight. (But only 2 weeks in the past)
-
-The historical fee structure for enrolling in a Challenge has been as follows (be sure to contact AA for current information):
-
-As of June 22, 2016, fees are $240 for Platinum Challenge.  
 
 #### Booking Flights for a Challenge
 
