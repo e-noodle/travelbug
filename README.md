@@ -27,14 +27,14 @@ This is equivalent to a Gold membership status with Qantas
     *  Try to book a premium economy ticket for non AA flights (not sale or flex etc) or book directly with AA to maximise the number of EQMs for the flight.
 
 
-##### Calculating Distance and Booking Classes for flights
+#### Calculating Distance and Booking Classes for flights
 
 [Google](http://www.google.com) To calculate distances for flights  
 
 [Itasoftware](https://matrix.itasoftware.com) (Powered by Google) propvides booking classes, cost estimates and the advanced routing option can be populated withj the carrier short name to filter by approved carriers (e.g. JAL,QF,BA,AA)
 
 
-##### Eligible Carriers and detail on Rates for EQMs:
+#### Eligible Carriers and detail on Rates for EQMs:
 
 *   [American Airlines](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/american.jsp)
 *   [British Airways](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/british.jsp)
@@ -45,7 +45,7 @@ This is equivalent to a Gold membership status with Qantas
 
 Please note: We do not offer challenges for **_AAdvantage_****_®_****_ Executive Platinum status_**.
 
-#####  Accruing Elite Qualifying Miles (EQMs)
+####  Accruing Elite Qualifying Miles (EQMs)
 
 The number of EQMs you earn is based on a combination of miles flown and the fare/booking code purchased
 
