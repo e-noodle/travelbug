@@ -5,7 +5,7 @@ Frequent flyer miles, status, points, fare comparisons, Qantas One World and Ame
 
 This is equivalent to a Gold membership status with Qantas
 
-#### Requirements**
+#### Requirements
 
 * The number of EQM miles are obtained (see below)  
 * Flights are only on the approved carriers list and the correct Booking Class.  
@@ -30,9 +30,12 @@ This is equivalent to a Gold membership status with Qantas
 5.  Ensure the Booking Class is correct and the rate for this class with the carrier.  
     *  Try to book a premium economy ticket for non AA flights (not sale or flex etc) or book directly with AA to maximise the number of EQMs for the flight.
 
+
 ##### Calculating Distance and Booking Classes for flights
+
 [Google](http://www.google.com) To calculate distances for flights  
 [Itasoftware](https://matrix.itasoftware.com) (Powered by Google) propvides booking classes, cost estimates and the advanced routing option can be populated withj the carrier short name to filter by approved carriers (e.g. JAL,QF,BA,AA)
+
 
 ##### Eligible Carriers and detail on Rates for EQMs:
 
