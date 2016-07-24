@@ -9,7 +9,7 @@ This is equivalent to a Gold membership status with Qantas
 
 **_AAdvantage_****_®_****_ Gold status_**: 7,000 Elite Qualifying Miles (EQMs) on an eligible carrier  
 **_AAdvantage_****_®_****_ Platinum status_**: 12,500 Elite Qualifying Miles (EQMs) on an eligible carrier
-**Challenges** take place during a 3-month timeframe once you enroll with AA.
+**_Challenges_**: take place during a 3-month timeframe once you enroll with AA
 
 ## Steps
 
