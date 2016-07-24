@@ -53,3 +53,167 @@ Regards,
 AAdvantage Customer Service
 
 American Airlines
+
+<div>
+
+<div>
+
+### Details for earning miles
+
+</div>
+
+</div>
+
+<div>[For travel January 1 – July 31, 2016 – International flightsThis content can be expanded](https://www.aa.com/i18n/travel-info/partner-airlines/japan-airlines.jsp#)
+
+<div>
+
+<div>
+
+<div>
+
+<table width="100%">
+
+<thead>
+
+<tr>
+
+<th width="20%" align="left">Class of service</th>
+
+<th width="20%" align="center">Purchased fares booked in</th>
+
+<th width="20%" align="center">Base miles</th>
+
+<th width="20%" align="center">Class of service bonus miles</th>
+
+<th width="20%" align="center">EQMs per mile flown</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td align="left">First</td>
+
+<td align="center">A, F</td>
+
+<td align="center">100%</td>
+
+<td align="center">50%</td>
+
+<td align="center">1.50</td>
+
+</tr>
+
+<tr>
+
+<td align="left">Business</td>
+
+<td align="center">C, D, J, X</td>
+
+<td align="center">100%</td>
+
+<td align="center">25%</td>
+
+<td align="center">1.50</td>
+
+</tr>
+
+<tr>
+
+<td align="left">Discount Business</td>
+
+<td align="center">I</td>
+
+<td align="center">55%</td>
+
+<td align="center">25%</td>
+
+<td align="center">1.50</td>
+
+</tr>
+
+<tr>
+
+<td align="left">Premium Economy</td>
+
+<td align="center">W, E</td>
+
+<td align="center">100%</td>
+
+<td align="center">–Not available</td>
+
+<td align="center">1.50</td>
+
+</tr>
+
+<tr>
+
+<td align="left">Full-Fare Economy</td>
+
+<td align="center">Y, B</td>
+
+<td align="center">100%</td>
+
+<td align="center">–Not available</td>
+
+<td align="center">1.00</td>
+
+</tr>
+
+<tr>
+
+<td align="left">Discount Economy</td>
+
+<td align="center">H, K, M</td>
+
+<td align="center">70%</td>
+
+<td align="center">–Not available</td>
+
+<td align="center">0.50</td>
+
+</tr>
+
+<tr>
+
+<td align="left">Discount Economy</td>
+
+<td align="center">L, V, S, G, O, R</td>
+
+<td align="center">50%</td>
+
+<td align="center">–Not available</td>
+
+<td align="center">0.50</td>
+
+</tr>
+
+<tr>
+
+<td align="left">Discount Economy</td>
+
+<td align="center">N, Q</td>
+
+<td align="center">30%</td>
+
+<td align="center">–Not available</td>
+
+<td align="center">0.50</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
