@@ -14,8 +14,14 @@ This is equivalent to a Gold membership status with Qantas
 
 #### Steps
 
-1.  Sign up for a free membership account with AA:
-2.  Plan a trip using https://matrix.itasoftware.com with one of the carriers listed below.
+1.  Sign up for a free membership account with [AA](https://www.aa.com/loyalty/enrollment/enroll):
+2.  Plan a trip using  [itasoftware.com](https://matrix.itasoftware.com) with one of the carriers:
+*   [American Airlines](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/american.jsp)
+*   [British Airways](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/british.jsp)
+*   [Finnair](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/finnair.jsp)
+*   [Iberia](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/iberia.jsp)
+*   [Japan Airlines](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/japan.jsp)
+*   [Qantas Airways](http://www.aa.com/i18n/AAdvantage/earnMiles/travel/airlines/qantas.jsp)
 3.  Ensure The total number of miles exceeds the amount required for the challenge:
     * **_AAdvantage_****_®_****_ Gold status_**: 7,000 Elite Qualifying Miles (EQMs) on an eligible carrier  
     * **_AAdvantage_****_®_****_ Platinum status_**: 12,500 Elite Qualifying Miles (EQMs)-on an eligible carrier
